@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .primary-btn {
+    @apply bg-secondary text-white cursor-pointer hover:bg-primary/80 py-2 px-4 rounded-lg my-3;
+  }
+
+  .s-btn {
+    @apply ring-2 ring-secondary inset-5 text-white cursor-pointer hover:bg-secondary py-2 px-4 rounded-lg my-3;
+  }
+}
