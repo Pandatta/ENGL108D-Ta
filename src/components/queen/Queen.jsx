@@ -1,7 +1,7 @@
 import introPic from '../../assets/sc.png';
 const Queen = () => {
   return (
-    <main className="w-full bg-y dark:bg-stone-800 dark:text-white">
+    <main className="w-full bg-y dark:bg-stone-500 dark:text-white">
         <div className="container grid grid-cols-1 sm:grid-cols-2 items-center space-y-2 py-10 sm:py-0 sm:h-[500px]">
             <div>
                 <div>
