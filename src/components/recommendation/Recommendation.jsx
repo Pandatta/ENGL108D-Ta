@@ -3,7 +3,7 @@ import MethodBox from './MethodBox.jsx'
 const Recommendation = () => {
   return (
     <>
-    <section id="recommendation" className="bg-primary dark:bg-d dark:text-white py-10">
+    <section id="recommendation" className="bg-y dark:bg-d dark:text-white py-10">
       <div className="container flex flex-col items-center">
         <h1 className="inline-block text-2xl text-center font-bold mb-4 border-b-4 border-b pb-1">
           Recommendation

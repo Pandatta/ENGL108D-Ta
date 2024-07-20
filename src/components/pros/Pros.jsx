@@ -2,7 +2,7 @@ const Pros = () => {
   return (
     <>
     <section id="pros"
-    className="bg-primary dark:bg-d dark:text-white py-10">
+    className="bg-y dark:bg-d dark:text-white py-10">
         <div className="container md:w-[70%]">
         <div className="grid items-center gap-3 grid-cols-1 sm:grid-cols-2">
             <div className="sm:order-2 relative md:w-[70%] sm:py-16 py-9">
